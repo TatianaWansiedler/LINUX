@@ -1,0 +1,5 @@
+   0 echo "Hello student" > /tmp/file.txt
+   1 cat /etc/group >> /tmp/file.txt 
+   2 df -h | tail -1 >> /tmp/file.txt 
+   3 history | wc -l >> /tmp/file.txt 
+   4 history > /tmp/history2.txt

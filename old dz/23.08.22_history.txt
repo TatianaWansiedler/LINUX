@@ -1,0 +1,5 @@
+   0 date > file.txt | df -h
+   1 df -h | grep -w / | awk '{print $3}' >> file.txt | history |tail -5 >> file.txt 
+   2 cat /proc/cpuinfo | grep vendor >> file.txt 
+   3 nano file.txt 
+   4 history > /tmp/history.txt
