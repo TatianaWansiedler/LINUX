@@ -32,3 +32,6 @@ echo $run
 sleep 1
 done
 echo "Done Boss"
+
+
+# данный скрипт можно найти по адресу: [ec2-user@ip-172-31-33-20 ~]$ cd /opt/35_36_morning/Tatiana_Vanzidler
